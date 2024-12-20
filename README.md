@@ -12,8 +12,8 @@
 
 ## 2.0 
 
-![alt text]({FF67CCF9-C359-43C5-B848-32DEEADD2071}.png)
-![alt text]({5E931ADB-DE2C-4A8B-ADAF-3703CBEC6D24}.png)
+![alt text](images/{FF67CCF9-C359-43C5-B848-32DEEADD2071}.png)
+![alt text](images/{5E931ADB-DE2C-4A8B-ADAF-3703CBEC6D24}.png)
 
 ## 1.0
 
